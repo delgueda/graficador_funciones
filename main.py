@@ -4,7 +4,7 @@ from mplfx import Ui_MainWindow  # reemplazar con el archivo py de la interfaz
 import numpy as np
 
 # requiere numpy, matplotlib y pyside6
-
+# hola
 class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
